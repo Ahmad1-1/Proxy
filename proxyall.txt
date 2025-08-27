@@ -1553,6 +1553,7 @@
 46.183.186.57,443,HU,EDIS Infrastructure in Hungary
 95.164.23.71,443,HU,WorkTitans B.V.
 77.91.72.82,443,HU,WorkTitans B.V.
+193.5.64.200,50100,ID,LAMPUNG 
 163.61.55.163,8881,ID,🇮🇩PROLING MAS BROOWuu
 34.101.86.59,443,ID,🇮🇩Google Asia Pacific Pte. Ltd. 
 36.95.152.58,12137,ID,🇮🇩PT Telekomunikasi Indonesia 
