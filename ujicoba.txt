@@ -2,3 +2,34 @@
 31.57.178.119,8080,ID,TES SG VIP2
 206.189.151.229,8080,ID,TES SG VIP3
 103.155.250.144,8080,ID,TES VIP1
+140.213.56.160,443,ID, AXIS HEHE
+103.196.116.201,8443,ID,🇮🇩 NUSA PREM
+46.254.93.41,443,ID,🇮🇩TES
+46.254.93.250,443,ID,🇮🇩TES1
+46.254.93.224,8443,ID,🇮🇩TES2
+46.254.92.168,443,ID,🇮🇩TES3
+46.254.93.42,443,ID,🇮🇩TES4
+103.180.165.140,443,ID,🇮🇩NATAN TES
+193.5.64.200,50100,ID,LAMPUNG 
+163.61.55.163,8881,ID,🇮🇩PROLING MAS BROOWuu
+34.101.86.59,443,ID,🇮🇩Google Asia Pacific Pte. Ltd. 
+36.95.152.58,12137,ID,🇮🇩PT Telekomunikasi Indonesia 
+43.218.77.16,443,ID,🇮🇩Amazon.com, Inc. 
+103.6.207.108,8080,ID,🇮🇩PT Pusat Media Indonesia 
+149.129.250.8,443,ID,🇮🇩Alibaba (US) Technology Co., Ltd. 
+156.244.1.250,8443,ID,🇮🇩Lightnode Limited 
+206.84.101.83,8443,ID,🇮🇩PT MITRA VISIONER PRATAMA 
+142.111.15.104,443,ID,🇮🇩Evoxt (ID) 
+172.232.234.62,443,ID,🇮🇩Linode 
+172.232.238.56,443,ID,🇮🇩Linode 
+172.235.246.50,443,ID,🇮🇩Linode 
+172.232.234.117,443,ID,🇮🇩Linode 
+172.232.234.198,443,ID,🇮🇩Linode 
+203.194.112.119,2053,ID,🇮🇩CV. Rumahweb Indonesia 
+203.194.112.119,8443,ID,🇮🇩CV. Rumahweb Indonesia
+43.218.77.16,1443,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
