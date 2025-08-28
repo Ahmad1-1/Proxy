@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Ahmad1-1/Proxy/refs/heads/main/Kvproxyall.json
+https://raw.githubusercontent.com/Ahmad1-1/Proxy/refs/heads/main/proxyall.txt
